@@ -31,7 +31,7 @@
     "rank": "42",
     "song": "Who",
     "artists": "Jimin",
-    "streams": "12,386",
+    "streams": "12,499",
     "spotifyLink": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU",
     "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec"
   },
@@ -45,6 +45,66 @@
     "artists": "Jimin",
     "streams": "104,900",
     "spotifyLink": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU",
+    "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec"
+  },
+  {
+    "category": "regional",
+    "country": "cz",
+    "chartType": "weekly",
+    "chartUrl": "https://charts.spotify.com/charts/view/regional-cz-weekly/latest",
+    "rank": "151",
+    "song": "Who",
+    "artists": "Jimin",
+    "streams": "78,195",
+    "spotifyLink": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU",
+    "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec"
+  },
+  {
+    "category": "regional",
+    "country": "jp",
+    "chartType": "daily",
+    "chartUrl": "https://charts.spotify.com/charts/view/regional-jp-daily/latest",
+    "rank": "57",
+    "song": "Who",
+    "artists": "Jimin",
+    "streams": "91,470",
+    "spotifyLink": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU",
+    "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec"
+  },
+  {
+    "category": "regional",
+    "country": "jp",
+    "chartType": "weekly",
+    "chartUrl": "https://charts.spotify.com/charts/view/regional-jp-weekly/latest",
+    "rank": "68",
+    "song": "Who",
+    "artists": "Jimin",
+    "streams": "590,794",
+    "spotifyLink": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU",
+    "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec"
+  },
+  {
+    "category": "regional",
+    "country": "kr",
+    "chartType": "daily",
+    "chartUrl": "https://charts.spotify.com/charts/view/regional-kr-daily/latest",
+    "rank": "6",
+    "song": "Who",
+    "artists": "Jimin",
+    "streams": "56,261",
+    "spotifyLink": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU",
+    "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec"
+  },
+  {
+    "category": "regional",
+    "country": "kr",
+    "chartType": "daily",
+    "chartUrl": "https://charts.spotify.com/charts/view/regional-kr-daily/latest",
+    "rank": "63",
+    "song": "Be Mine",
+    "artists": "Jimin",
+    "streams": "18,719",
+    "spotifyLink": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz",
     "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec"
   },
   {
@@ -76,10 +136,10 @@
     "country": "sg",
     "chartType": "daily",
     "chartUrl": "https://charts.spotify.com/charts/view/regional-sg-daily/latest",
-    "rank": "14",
+    "rank": "8",
     "song": "Who",
     "artists": "Jimin",
-    "streams": "26,464",
+    "streams": "29,831",
     "spotifyLink": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU",
     "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec"
   },
@@ -100,10 +160,10 @@
     "country": "th",
     "chartType": "daily",
     "chartUrl": "https://charts.spotify.com/charts/view/regional-th-daily/latest",
-    "rank": "43",
+    "rank": "75",
     "song": "Who",
     "artists": "Jimin",
-    "streams": "70,460",
+    "streams": "58,197",
     "spotifyLink": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU",
     "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec"
   },
@@ -127,7 +187,7 @@
     "rank": "42",
     "song": "Who",
     "artists": "Jimin",
-    "streams": "23,007",
+    "streams": "22,975",
     "spotifyLink": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU",
     "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec"
   },
@@ -140,30 +200,6 @@
     "song": "Who",
     "artists": "Jimin",
     "streams": "217,058",
-    "spotifyLink": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU",
-    "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec"
-  },
-  {
-    "category": "regional",
-    "country": "uy",
-    "chartType": "weekly",
-    "chartUrl": "https://charts.spotify.com/charts/view/regional-uy-weekly/latest",
-    "rank": "88",
-    "song": "Who",
-    "artists": "Jimin",
-    "streams": "31,395",
-    "spotifyLink": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU",
-    "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec"
-  },
-  {
-    "category": "regional",
-    "country": "vn",
-    "chartType": "daily",
-    "chartUrl": "https://charts.spotify.com/charts/view/regional-vn-daily/latest",
-    "rank": "147",
-    "song": "Who",
-    "artists": "Jimin",
-    "streams": "26,223",
     "spotifyLink": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU",
     "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec"
   }
